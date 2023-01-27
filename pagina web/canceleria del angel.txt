@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang "es">
+ <head>canceleria del angel</head>
+      <tile>canceleria del angel</title>
+<br>
+<img src="cancel templado" height="900" width="50"> 
+<br>
+<body>
+somos una empresa que se dedica a la fabricacion de canceleria, puertas, 
+ventanas, mosquiteros, cortinas anticionicas, portonos, vitrinas, entre otros 
+
+</body>
+</html>
